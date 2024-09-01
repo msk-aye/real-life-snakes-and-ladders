@@ -1,3 +1,4 @@
 # README
 
-This is the completed CSSE2010 assignment task, a snakes and ladders game displayed on an LED board, using the an atmel microprocessor in Microchip Studio.
+Snakes and ladders game programmed in C for use with a micro chip and LED board.
+The game is playable through buttons and controls on the LED board.
